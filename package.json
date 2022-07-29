@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-express-test",
+  "version": "1.0.0",
+  "description": "NodeJS Express TEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateuslodi/NodeJS-Express-TEST.git"
+  },
+  "author": "mateus.lodi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mateuslodi/NodeJS-Express-TEST/issues"
+  },
+  "homepage": "https://github.com/mateuslodi/NodeJS-Express-TEST#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
